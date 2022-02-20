@@ -1,0 +1,41 @@
+
+.main-bg {
+   
+    background-size: cover;
+    background-position: center center;
+    color: rgb(0, 0, 0);
+  }
+  
+  .white-bg {
+    background: var(--white-color);
+    color: var(--primary-color);
+    
+  }
+  
+  .white-bg2 {
+    background: var(--white-color) url(/15.PNG);
+    color: var(--primary-color);
+    background-size:100%;
+    width: 500px;
+    height: 526px;
+    margin-left: auto;
+  }
+  
+  .main-content {
+    max-width: 120rem;
+    margin: 0 auto;
+    padding: 10rem var(--gap);
+  }
+  
+  .section {
+    min-height: 100vh;
+  }
+  
+  .menu-spacing {
+    height: 65px;
+  }
+  
+  body .full-width {
+    width: 100%;
+    flex: 1 1 100%;
+  }
