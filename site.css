@@ -1,5 +1,6 @@
 body{
     background-color: aqua;
+
 }
 .intro-content {
     position: relative;
@@ -19,7 +20,9 @@ body{
   .intro-img img,
   .intro-img svg {
     max-width: 100%;
-    height: auto;
+    width: 500px;
+    height: 500px;
+    margin: 0 200px;
   }
   
   .top3-content {
