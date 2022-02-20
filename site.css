@@ -150,7 +150,7 @@ body{
       z-index: 2;
       top: 2rem;
       right: 2rem;
-      background: var(--primary-color);
+      background: aqua;
       color: var(--white-color);
       font-size: 3rem;
       line-height: 3rem;
