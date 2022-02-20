@@ -13,7 +13,7 @@
   }
   
   .white-bg2 {
-    background: var(--white-color) url(./15.PNG);
+    background: var(--white-color) url(15.PNG);
     color: var(--primary-color);
     background-size:100%;
     width: 500px;
