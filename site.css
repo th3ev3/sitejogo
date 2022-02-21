@@ -74,8 +74,8 @@ body{
     left: -2rem;
     transform: rotate(5deg);
   }
-  
-  
+
+
   
   .footer {
     text-align: center;
@@ -86,9 +86,6 @@ body{
     color: var(--primary-color);
   }
   
-  .heart {
-    color: var(--secondary-color);
-  }
   
   .footer p {
     margin: 0;
@@ -111,8 +108,9 @@ body{
     align-items: center;
     border-radius: 50%;
     color: aqua;
-    transform: rotate(-90deg);
+    transform: rotate(-15deg);
     border: 0.1rem solid var(--primary-color);
+    
   }
   
   @media (max-width: 800px) {
