@@ -108,7 +108,7 @@ body{
     align-items: center;
     border-radius: 50%;
     color: aqua;
-    transform: rotate(-15deg);
+    transform: rotate(-90deg);
     border: 0.1rem solid var(--primary-color);
     
   }
